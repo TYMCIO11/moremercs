@@ -1,0 +1,69 @@
+MS_v1:
+	nie wiem
+MS_v2:
+	1. Koszt utrzymania wszystkich jednostek większy o 50%. (module_scripts.py)
+	2. Swadiańscy: kusznik weteran i sierżant tracą flagę "mounted". (module_troops.py)
+	3. Vaegirski strażnik traci flagę "mounted". (module_troops.py)
+	4. Liczba dostępnych najemników w tawernie zmieniona z "3-8" na "10-20". (module_scripts.py)
+	5. Dodano nową jednostkę: test_merc (module_troops.py)
+MS_v3:
+	1. W wioskach nie rekrutuje się już narodowych jednostek, tylko (tier1: bydło, tier2-5: farmer). (module_scripts.py)
+	2. Bydło ma nowe statystki i przedmioty (lvl(2), wp(40), coarse_tunic, stones). (module_troops.py)
+	3. Bydło ulepsza się teraz do farmera lub grabieżcy. (module_troops.py)
+	4. Farmera można ulepszyć do łowcy głów zamiast do wartownika. (module_troops.py)
+	5. Grabieżcę można spowrotem ulepszyć (ten sam poziom) do farmera (powrót na dobrą ściężkę) lub do bandyty. (module_troops.py)
+	6. Łowca głów traci broń: "spiked_mace" na rzecz "winged_mace".
+	7. Łowca głów wp(50) -> wp(80).
+	8. Łowca głów otrzymuje umiejętności: "power_strike_1" i "ironflesh_1"
+	9. Nadzorca niewolników otrzymuje flagi: "mounted", "guarantee_horse", "guarantee_shield", "guarantee_boots" oraz "guarantee_helmet". (module_troops.py)
+	10. Nadzorca niewolników traci zbroję: "coarse_tunic" na rzecz "leather_vest". (module_troops.py)
+	11. Nadzorca niewolników otrzymuje hełm: "common_hood". (module_troops.py)
+	12. Nadzorca niewolników traci broń: "club" na rzecz "winged_mace".
+	13. Nadzorca niewolników wp(80) -> wp(100).
+	14. Nadzorca niewolników otrzymuje umiejętności: "power_strike_1" i "ironflesh_2"
+	15. Łowca niewolników otrzymuje flagi: "mounted", "guarantee_horse", "guarantee_shield", "guarantee_boots" oraz "guarantee_helmet".
+	16. Łowca niewolników otrzymuje zbroje: "leather_vest", "leather_jerkin" oraz "light_leather.
+	17. Łowca niewolników traci zbroję: "nomad_armor", "rawhide_coat" oraz "coarse_tunic".
+	18. Łowca niewolników otrzymuje hełmy: "common_hood" oraz "padded_coif".
+	19. Łowca niewolników traci broń: "club" oraz "winged_mace".
+	20. Łowca niewolników otrzymuje broń: "spiked_mace".
+	21. Łowca niewolników otrzymuje konia: "saddle_horse".
+	22. Łowca niewolników otrzymuje rękawice: "leather_gloves".
+	23. Łowca niewolników wp(100) -> wp(120).
+	24. Łowca niewolników otrzymuje umiejętności: "power_strike_2" i "ironflesh_2".
+	25. Kat niewolników otrzymuje umiejętności: "power_strike_2" i "ironflesh_3".
+	26. Kat niewolników wp(120) -> wp(140).
+	27. Kat niewolników otrzymuje flagi: "mounted", "guarantee_horse", "guarantee_shield", "guarantee_boots", "guarantee_helmet" oraz "guarantee_gloves".
+	28. Kat niewolników otrzymuje hełmy: "padded_coif" i "footman_helmet".
+	29. Kat niewolników traci zbroję: "leather_vest".
+	30. Kat niewolników otrzymuje zbroje: "blue_gambeson", "gambeson", "red_gambeson" oraz "padded_leather".
+	31. Kat niewolników traci buty: "nomad_boots".
+	32. Kat niewolników otrzymuje rękawice: "leather_gloves".
+	33. Kat niewolników traci broń: "winged_mace".
+	34. Kat niewolników otrzymuje broń: "spiked_mace".
+	35. Przywódca łowców niewolników otrzymuje umiejętność: "ironflesh_3".
+	36. Przywódca łowców niewolników wp(130) -> wp(160).
+	37. Przywódca łowców niewolników otrzymuje flagi: "guarantee_horse" oraz "guarantee_gloves".
+	38. Przywódca łowców niewolników otrzymuje hełmy: "mail_coif" oraz "guard_helmet".
+	39. Przywódca łowców niewolników otrzymuje zbroję: "brigandine_a".
+	40. Przywódca łowców niewolników traci buty: "nomad_boots" oraz "leather_boots.
+	41. Przywódca łowców niewolników otrzymuje buty: "mail_chausses" oraz "mail_boots".
+	42. Przywódca łowców niewolników otrzymuje rękawice: "mail_mittens".
+	43. Przywódca łowców niewolników traci broń: "maul" oraz "winged_mace".
+	44. Przywódca łowców niewolników otrzymuje broń: "military_hammer" oraz "warhammer".
+	45. Bandytę można ulepszyć do leśnego bandyty lub górskiego bandyty.
+	46. Leśnego bandytę można ulepszyć do rozbójnika.
+MS_v4
+	1. Górskiego bandytę można ulepszyć do zbójcerza.
+	2. Nowa jednostka: Zbójcerz (level(16), wp(120), power_strike_3, ironflesh_3, riding_3).
+	3. Zbójcerz otrzymuje flagi: "mounted", guarantee_horse", "guarantee_armor" oraz "guarantee_boots".
+	4. Zbójcerz otrzymuje hełmy: "arming_cap", "padded_coif", "mail_coif", "helmet_with_neckguard", "flat_topped_helmet", "kettle_hat", "bascinet" oraz "guard_helmet".
+	5. Zbójcerz otrzymuje zbroje: "mail_shirt", "byrnie", "mail_hauberk" oraz "haubergeon".
+	6. Zbójcerz otrzymuje buty: "leather_boots" oraz "mail_chausses".
+	7. Zbójcerz otrzymuje rękawice: "leather_gloves".
+	8. Zbójcerz otrzymuje broń: "sword_medieval_a", "sword_medieval_b", "sword_viking_1", "maul", "sword_viking_2", "bastard_sword_a", "sword_medieval_c", "sword_viking_3" oraz "bastard_sword_b".
+	9. Zbójcerz otrzymuje tarcze: "leather_covered_round_shield", "tab_shield_kite_cav_a", "shield_heater_c" oraz "tab_shield_heater_cav_a".
+	10. Zbójcerz otrzymuje konie: "saddle_horse" oraz "hunter".
+	11. Dodano tłumaczenie Highwayman'a = Zbójcerz.
+	
+	
