@@ -1,0 +1,2 @@
+user=piotr
+level=ultra_master
