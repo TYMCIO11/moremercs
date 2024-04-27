@@ -65,5 +65,7 @@ MS_v4
 	9. Zbójcerz otrzymuje tarcze: "leather_covered_round_shield", "tab_shield_kite_cav_a", "shield_heater_c" oraz "tab_shield_heater_cav_a".
 	10. Zbójcerz otrzymuje konie: "saddle_horse" oraz "hunter".
 	11. Dodano tłumaczenie Highwayman'a = Zbójcerz.
+
+### TEST GITa na lapku #####
 	
 	
