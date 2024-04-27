@@ -66,6 +66,6 @@ MS_v4
 	10. Zbójcerz otrzymuje konie: "saddle_horse" oraz "hunter".
 	11. Dodano tłumaczenie Highwayman'a = Zbójcerz.
 
-### TEST GITa na lapku #####
+####TEST GITA TEST GITA TEST GITA#####
 	
 	
