@@ -1,3 +1,5 @@
+#### More Mercs 1.0
+
 My little mod for Classic M&B.
 
 ### If you want to test:
