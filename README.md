@@ -1,4 +1,4 @@
-#### More Mercs 1.0
+# More Mercs 1.0
 
 My little mod for Classic M&B.
 
