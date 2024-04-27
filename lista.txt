@@ -1,0 +1,4 @@
+lista zakupow:
+ciastko,
+mleko,
+jajko
