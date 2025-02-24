@@ -1,2 +1,0 @@
-user=tymek
-level=total_beginner
